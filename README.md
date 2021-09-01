@@ -1,6 +1,8 @@
 # vultoding
 ### 漏洞告警钉钉通知
 
+### Python 3.5+
+
 ## Linux配置定时任务
 ##### crontab -e
 ##### 0 15 * * * /usr/bin/python3 /opt/wxqbtod.py &
